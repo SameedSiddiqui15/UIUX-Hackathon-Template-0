@@ -4,7 +4,6 @@ import Navbar from '../components/Navbar'
 import SingleProductAsgaardSofa from '../components/SingleProductAsgaardSofa'
 import SingleProductDescription from '../components/SingleProductDescription'
 import SingleProductRelatedProducts from '../components/SingleProductRelatedProducts'
-import PopupCart from '../components/PopUpCart'
 
 export default function SingleProduct() {
     
